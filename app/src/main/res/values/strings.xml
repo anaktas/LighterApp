@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LighterApp</string>
+    <string name="lighter_on">Άνοιξε</string>
+    <string name="lighter_off">Κλείσε</string>
+</resources>
